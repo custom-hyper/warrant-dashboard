@@ -1,10 +1,10 @@
-# Warrants Dashboard
+# Warrants Dashboard 
 
 ## Project: 
 * create a web scraper that would extract warrants data and compared to the underlying for Canadian exchange – something hard to access
 * create multiple warrants pricing models (Black Scholes, binomial, etc.) timeseries to compare against stock price chart
 
-## Challenge
+## Help Wanted!
 *  symbol data provider dropped the project, needing someone willing to extract the symbols data from credible source
 
 ## Backend
